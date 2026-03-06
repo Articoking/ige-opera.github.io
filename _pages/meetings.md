@@ -5,12 +5,8 @@ layout: opera
 ---
 
 # Upcoming Team meetings 
-Mondays at 10 AM  
-Presentations are either in English or French  
-
-2 March 2026  
-OSUG B 105  
-Speaker: Ruth Price  
+**Mondays at 10 AM** <br>
+**Presentations are either in English or French** 
 
 9 March 2026  
 OSUG B 105  
@@ -41,3 +37,7 @@ Speaker: Hugo Frezat
 
 23 Feb 2026  
 Speaker: Jennie Thomas  
+
+2 March 2026  
+OSUG B 105  
+Speaker: Ruth Price  
