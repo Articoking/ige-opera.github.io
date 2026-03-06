@@ -1,7 +1,7 @@
 ---
 lastname: "Thomas"
 firstname: "Jennie"
-pub_id: "Thomas J"
+pub_id: "Thomas, J. L."
 role: "Team Leader"
 status: "active"
 sort_display: 4

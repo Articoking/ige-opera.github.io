@@ -20,7 +20,7 @@ Example:
 ---
 lastname: "Sonnewald"
 firstname: "Maike"
-pub_id: "Sonnewald M"
+pub_id: "Sonnewald, M."
 role: "Group Leader"
 status: "active"
 pronouns: "she/her"
