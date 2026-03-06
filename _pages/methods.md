@@ -4,4 +4,4 @@ permalink: /methods/
 layout: opera
 ---
 
-Blabla methods...
+Reserach methodologies, currently in progress
