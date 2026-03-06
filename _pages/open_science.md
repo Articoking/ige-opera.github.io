@@ -4,4 +4,4 @@ permalink: /open-science/
 layout: opera
 ---
 
-Blabla open science...
+Why open science?
