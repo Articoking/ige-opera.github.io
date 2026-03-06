@@ -22,25 +22,29 @@ search: false
 ol.bibliography {
   font-size: 0.75em;
   line-height: 1.4;
-  list-style: none;
-  padding-left: 2.5em;
+  list-style: disc;
+  padding-left: 1.5em;
 
   li {
-    counter-increment: publication -1;
     margin-bottom: 0.75em;
-    position: relative;
-
-    &::before {
-      content: counter(publication) ".";
-      position: absolute;
-      left: -2.5em;
-      width: 2em;
-      text-align: right;
-    }
   }
 
   .pub-note {
     margin-top: 0.4em;
+  }
+}
+
+// Ensure consistent image height on people page (no cropping)
+.feature__wrapper .archive__item-teaser {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 200px; // Adjust this value as needed
+
+  img {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
   }
 }
 
