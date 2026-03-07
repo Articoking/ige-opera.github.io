@@ -12,13 +12,17 @@ feature_row_projects:
     btn_class: "btn--primary"
     btn_label: "Learn more"
  
-  - image_path: "assets/images/projects/MIAI.png"
+  - image_path: "assets/images/projects/bayesian-inference.png"
     title: "SBI4C@MIAI"
-    excerpt: "Simulation Based Inference for Climate <br> **Contacts:** P. Rodrigues and J. Le Sommer"
+    excerpt: "Simulation Based Inference for Climate <br> **Contacts:** J. Le Sommer"
     url: "https://sbi4c.inria.fr"     
     btn_class: "btn--primary"
     btn_label: "Learn more"
- 
+
+  - image_path: "assets/images/projects/swot_emblem.png"
+    title: "SWOT PALMAS"
+    excerpt: "Physics And Learning for Models and Algorithms in the SWOT era <br> **Contacts:** E. Cosme and Le Sommer"
+  
   - image_path: "assets/images/projects/certainty.png"
     title: "CERTAINTY"
     excerpt: "Cloud-aERosol inTeractions and their impActs IN The earth sYstem <br> **Contact:** J. Thomas"
@@ -45,8 +49,6 @@ feature_row_projects:
     title: "QUANTIFIED"
     excerpt: "QUANTIFIcation of the rolE of aerosol-clouD interactions in Arctic climate <br> **Contact:** J. Thomas <br> **Funding:** CNRS-ICL Joint PhD Programme"
  
- 
- 
     
 
     
@@ -58,6 +60,19 @@ feature_row_past:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   
+  - image_path: "assets/images/projects/edito.png"
+    title: "EDITO Model Lab"
+    excerpt: "European Digital Twin Ocean  <br> **Contact:** J. Le Sommer"
+    url: "https://edito-modellab.eu"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+  - image_path: "assets/images/projects/immerse.png"
+    title: "IMMERSE"
+    excerpt: " Improving Ocean Models for the Copernicus Programme  <br> **Contact:** J. Le Sommer"
+    url: "https://immerse-ocean.eu"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
 ---    
     

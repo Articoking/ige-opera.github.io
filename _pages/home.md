@@ -15,14 +15,18 @@ intro:
   - excerpt: "Our research group uses **open science** methodologies to foster **interdisciplinary science** to advance understanding of key environmental and **climate** processes."
 
 geoscience:
+#geotheme1:
   - image_path: "/assets/images/exchanges.png"
 #    title: "Polar surface interactions"
     title: "Atmosphere-surface interactions in polar regions"
-    excerpt: "Cryosphere, land, ocean, aerosols"
+#    excerpt: "Cryosphere, land, ocean, aerosols"
+#    title: " "
+#    excerpt: "Atmosphere-surface interactions in polar regions"
 
+#geotheme2:
   - image_path: "/assets/images/osbl-processes.png"
-    title: "Surface ocean circulation and turbulence"
-    excerpt: "observation, modelling, parameterization"
+    title: "Near surface ocean circulation and processes"
+#    excerpt: "observation, modelling, parameterization"
 
 methods:
   - image_path: "/assets/images/calibrate.png"
@@ -37,11 +41,14 @@ methods:
 
 {% include feature_row id="intro" type="center" %}
 
-# Understanding climate processes 
+<h1 style="text-align:center;color:#578BBD">Understanding climate processes </h1>
 
-{% include feature_row id="geoscience" %}
 
-# Improving computational tools 
+{% include feature_row id="geoscience"  type="center"%}
+
+
+<h1 style="text-align:center;color:#578BBD;">Improving computational tools </h1>
+
  
 {% include feature_row id="methods" %}
 
